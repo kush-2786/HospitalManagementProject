@@ -14,9 +14,9 @@ import java.sql.*;
 
 public class JavaApp extends Application {
 
-    private static final String url = "jdbc:mysql://127.0.0.1:3306/Hospital";
-    private static final String user = "root";
-    private static final String passwd = "HelloKushal";
+    private static final String url = "JDBCconnectionString";
+    private static final String user = "YourUserName";
+    private static final String passwd = "YourPassword";
 
     private Connection con;
 
@@ -256,3 +256,4 @@ public class JavaApp extends Application {
         new Alert(Alert.AlertType.INFORMATION, msg, ButtonType.OK).showAndWait();
     }
 }
+
