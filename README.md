@@ -64,7 +64,7 @@ CREATE TABLE appointments (
 );
 ```
 
-#How to Run
+# How to Run
 
 1. Open the project in IntelliJ / Eclipse
 
