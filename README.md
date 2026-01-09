@@ -73,3 +73,7 @@ CREATE TABLE appointments (
 3. Update MySQL password in JavaApp.java
 
 4. Run JavaApp.java
+
+## Author
+Kushal Goswami
+
